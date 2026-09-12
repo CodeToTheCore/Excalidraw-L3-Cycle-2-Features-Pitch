@@ -1,3 +1,26 @@
+# Excalidraw L3 Cycle 2 — Features Pitch (Group G1)
+
+Pursuit L3, Cycle 2. Client: **Carlos Godoy, Head of Product**.
+KPI under discussion: activation rate — new signups who complete and save a
+first drawing within their first session.
+
+This is a prototype workspace, **not a fork** and not aimed at upstream PRs.
+`main` is the shared base, held at upstream `excalidraw/excalidraw@afa3a653`
+with full history (`git blame` and `git log -S` work). Nobody works on `main`.
+
+| Branch | Person | GitHub |
+|---|---|---|
+| `aisling` | Aisling Leiva-Davila (owner) | [@nessaisling-lab](https://github.com/nessaisling-lab) |
+| `cornell` | Cornell Robertson | [@CodeToTheCore](https://github.com/CodeToTheCore) |
+| `jill` | Jillian Krebsbach | [@JillK83](https://github.com/JillK83) |
+| `lawrence` | Lawrence Carrillo | [@lawrencecarrillo](https://github.com/lawrencecarrillo) |
+
+Work on your own branch; open PRs into `main` for team review.
+
+---
+
+*Upstream Excalidraw README follows.*
+
 <a href="https://excalidraw.com/" target="_blank" rel="noopener">
   <picture>
     <source media="(prefers-color-scheme: dark)" alt="Excalidraw" srcset="https://excalidraw.nyc3.cdn.digitaloceanspaces.com/github/excalidraw_github_cover_2_dark.png" />
